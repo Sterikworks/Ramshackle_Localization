@@ -6,5 +6,6 @@ contains XML Localisation Interchange File Format (XLIFF) used in swapping text 
 **search for "TODO" in the .xlf files for untranslated entries**
 
 pull requests and spellchecking encouraged!
+the files will have entries added over time as more parts of the game are translated
 
 ![image](https://github.com/user-attachments/assets/008e52e1-bc49-49d0-a307-909c6c8bc0a6)
