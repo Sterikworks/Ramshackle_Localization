@@ -1,50 +1,50 @@
 <?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="ja" xmlns="urn:oasis:names:tc:xliff:document:2.0">
-  <file id="b8ad561570c4f19439d421f6c6ec3276" original="Assets/Localization/Tables/OptionsMenuTable_ja.asset">
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="fr" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="c9ab426781cf7ba47a229ba15dfb3918" original="Assets/Localization/Tables/OptionsMenuTable_fr.asset">
     <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
   </file>
-  <file id="8fdd65caf9f592b4ba945e1515b1c9a9" original="Assets/Localization/Tables/BuilderMenuTable_ja.asset">
+  <file id="ac80acbe443110844a97ff2f860c77a2" original="Assets/Localization/Tables/BuilderMenuTable_fr.asset">
     <group id="6d3c3004951522547bffee116a0c17c3" name="BuilderMenuTable">
       <unit id="97420828672" name="KEY_BLUEPRINTS" xml:space="preserve">
         <segment>
           <source>Blueprints</source>
-          <target>設計図</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34249142689792" name="KEY_DESIGNER" xml:space="preserve">
         <segment>
           <source>Designer</source>
-          <target>デザイナー</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34301173030912" name="KEY_TESTDRIVE" xml:space="preserve">
         <segment>
           <source>Test Drive</source>
-          <target>テストドライブ</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34399076474880" name="KEY_RESEARCH" xml:space="preserve">
         <segment>
           <source>Research</source>
-          <target>研究</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34426851155968" name="KEY_PRODUCTION" xml:space="preserve">
         <segment>
           <source>Production</source>
-          <target>生産</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34449005469696" name="KEY_INVENTORY" xml:space="preserve">
         <segment>
           <source>Inventory</source>
-          <target>インベントリ</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34477761617920" name="KEY_DEPLOY" xml:space="preserve">
         <segment>
           <source>Deploy</source>
-          <target>デプロイ</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34525308248064" name="KEY_SHARE" xml:space="preserve">
@@ -56,55 +56,55 @@
       <unit id="34577007239168" name="KEY_SAVEALL" xml:space="preserve">
         <segment>
           <source>Save All</source>
-          <target>すべてを保存</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="34603255193600" name="KEY_EXPORT" xml:space="preserve">
         <segment>
           <source>Export</source>
-          <target>エクスポート</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="48511386902528" name="KEY_CONFIRMDELETEWINDOW" xml:space="preserve">
         <segment>
           <source>Confirmation</source>
-          <target>確認</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="48670367801344" name="KEY_CONFIRMDELETEDESC" xml:space="preserve">
         <segment>
           <source>Are you sure you want to delete:</source>
-          <target>削除する必要がありますか：</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="48710104637440" name="KEY_CANCEL" xml:space="preserve">
         <segment>
           <source>Cancel</source>
-          <target>キャンセル</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="49649125416960" name="KEY_DELETE" xml:space="preserve">
         <segment>
           <source>Delete</source>
-          <target>削除</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="60942033084416" name="KEY_SUBMIT" xml:space="preserve">
         <segment>
           <source>Submit</source>
-          <target>送信</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="61657937862656" name="KEY_EXPORTVESSELWINDOW" xml:space="preserve">
         <segment>
           <source>Export Vessel...</source>
-          <target>輸出船... </target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="67402649559040" name="KEY_EXPORTVESSELWINDOWNAME" xml:space="preserve">
         <segment>
           <source>Name:</source>
-          <target>名前：</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="78515776774144" name="KEY_ENTERTEXT" xml:space="preserve">
@@ -140,7 +140,7 @@ Room</source>
       </unit>
     </group>
   </file>
-  <file id="019f1f3125925c240a388990a2f71a79" original="Assets/Localization/Tables/DataMenuTable_ja.asset">
+  <file id="d0d2a501918abee4b90949b2b97353ef" original="Assets/Localization/Tables/DataMenuTable_fr.asset">
     <group id="373844dbeba2cdd48b45de2cacf83ffc" name="DataMenuTable">
       <unit id="38109175808" name="KEY_MENU" xml:space="preserve">
         <segment>
@@ -174,36 +174,36 @@ Room</source>
       </unit>
     </group>
   </file>
-  <file id="7bbcf49cd44aa564e8037581576872a6" original="Assets/Localization/Tables/Main Menu_ja.asset">
+  <file id="66fab1c8e434c124e9a9447415f576c8" original="Assets/Localization/Tables/Main Menu_fr.asset">
     <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
       <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
         <segment>
           <source>Resume</source>
-          <target>再開</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
         <segment>
           <source>Singleplayer</source>
-          <target>シングルプレイ</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
         <segment>
           <source>Multiplayer</source>
-          <target>マルチプレイ</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
         <segment>
           <source>Options</source>
-          <target>オプション</target>
+          <target>TODO</target>
         </segment>
       </unit>
       <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
         <segment>
           <source>Exit</source>
-          <target>終了</target>
+          <target>TODO</target>
         </segment>
       </unit>
     </group>
