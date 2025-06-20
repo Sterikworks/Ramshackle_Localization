@@ -1,177 +1,178 @@
 <?xml version="1.0"?>
-<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="fr" xmlns="urn:oasis:names:tc:xliff:document:2.0">
-  <file id="4d8d063a7c3980e48a149d5ec532503e" original="Assets/Localization/Tables/Main Menu_fr.asset">
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="30ad1381f2acf6049b3595e6ebe11d23" original="Assets/Localization/Tables/Main Menu_pt-BR.asset">
     <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
       <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
         <segment>
           <source>Resume</source>
-          <target>Continuer</target>
+          <target>Continuar</target>
         </segment>
       </unit>
       <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
         <segment>
           <source>Singleplayer</source>
-          <target>Solo</target>
+          <target>Singleplayer</target>
         </segment>
       </unit>
       <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
         <segment>
           <source>Multiplayer</source>
-          <target>Multijoueur</target>
+          <target>Multiplayer</target>
         </segment>
       </unit>
       <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
         <segment>
           <source>Options</source>
-          <target>Options</target>
+          <target>Opções</target>
         </segment>
       </unit>
       <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
         <segment>
           <source>Exit</source>
-          <target>Quiter</target>
+          <target>Sair</target>
         </segment>
       </unit>
     </group>
   </file>
-  <file id="eead141763d9fc242a0997b57c2e980d" original="Assets/Localization/Tables/BuilderMenuTable_fr.asset">
+  <file id="96fa0be3152911d48a855852fa803646" original="Assets/Localization/Tables/BuilderMenuTable_pt-BR.asset">
     <group id="6d3c3004951522547bffee116a0c17c3" name="BuilderMenuTable">
       <unit id="97420828672" name="KEY_BLUEPRINTS" xml:space="preserve">
         <segment>
           <source>Blueprints</source>
-          <target>Blueprints</target>
+          <target>Projetos</target>
         </segment>
       </unit>
       <unit id="34249142689792" name="KEY_DESIGNER" xml:space="preserve">
         <segment>
           <source>Designer</source>
-          <target>Conception</target>
+          <target>Designer</target>
         </segment>
       </unit>
       <unit id="34301173030912" name="KEY_TESTDRIVE" xml:space="preserve">
         <segment>
           <source>Test Drive</source>
-          <target>Essai libre</target>
+          <target>Área De Testes</target>
         </segment>
       </unit>
       <unit id="34399076474880" name="KEY_RESEARCH" xml:space="preserve">
         <segment>
           <source>Research</source>
-          <target>Recherche</target>
+          <target>Pesquisa</target>
         </segment>
       </unit>
       <unit id="34426851155968" name="KEY_PRODUCTION" xml:space="preserve">
         <segment>
           <source>Production</source>
-          <target>Usine</target>
+          <target>Produção</target>
         </segment>
       </unit>
       <unit id="34449005469696" name="KEY_INVENTORY" xml:space="preserve">
         <segment>
           <source>Inventory</source>
-          <target>Inventaire</target>
+          <target>Inventário</target>
         </segment>
       </unit>
       <unit id="34477761617920" name="KEY_DEPLOY" xml:space="preserve">
         <segment>
           <source>Deploy</source>
-          <target>Déploiement</target>
+          <target>Mobilizar</target>
         </segment>
       </unit>
       <unit id="34525308248064" name="KEY_SHARE" xml:space="preserve">
         <segment>
           <source>Share</source>
-          <target>Partager</target>
+          <target>Compartilhar</target>
         </segment>
       </unit>
       <unit id="34577007239168" name="KEY_SAVEALL" xml:space="preserve">
         <segment>
           <source>Save All</source>
-          <target>Tous Sauvegarder</target>
+          <target>Salvar Todos</target>
         </segment>
       </unit>
       <unit id="34603255193600" name="KEY_EXPORT" xml:space="preserve">
         <segment>
           <source>Export</source>
-          <target>Exporter</target>
+          <target>Exportar</target>
         </segment>
       </unit>
       <unit id="48511386902528" name="KEY_CONFIRMDELETEWINDOW" xml:space="preserve">
         <segment>
           <source>Confirmation</source>
-          <target>Confirmation</target>
+          <target>Confirmação</target>
         </segment>
       </unit>
       <unit id="48670367801344" name="KEY_CONFIRMDELETEDESC" xml:space="preserve">
         <segment>
           <source>Are you sure you want to delete:</source>
-          <target>Etes vous sûre de vouloir suprimer:</target>
+          <target>Confirme A Exclusão:</target>
         </segment>
       </unit>
       <unit id="48710104637440" name="KEY_CANCEL" xml:space="preserve">
         <segment>
           <source>Cancel</source>
-          <target>Annuler</target>
+          <target>Cancelar</target>
         </segment>
       </unit>
       <unit id="49649125416960" name="KEY_DELETE" xml:space="preserve">
         <segment>
           <source>Delete</source>
-          <target>Suprimer</target>
+          <target>Deletar</target>
         </segment>
       </unit>
       <unit id="60942033084416" name="KEY_SUBMIT" xml:space="preserve">
         <segment>
           <source>Submit</source>
-          <target>Envoyer</target>
+          <target>Enviar</target>
         </segment>
       </unit>
       <unit id="61657937862656" name="KEY_EXPORTVESSELWINDOW" xml:space="preserve">
         <segment>
           <source>Export Vessel...</source>
-          <target>Exporter le véhicule...</target>
+          <target>Exportar Veículo...</target>
         </segment>
       </unit>
       <unit id="67402649559040" name="KEY_EXPORTVESSELWINDOWNAME" xml:space="preserve">
         <segment>
           <source>Name:</source>
-          <target>Nom:</target>
+          <target>Nome:</target>
         </segment>
       </unit>
       <unit id="78515776774144" name="KEY_ENTERTEXT" xml:space="preserve">
         <segment>
           <source>Enter Text...</source>
-          <target>Saisisser le texte...</target>
+          <target>Digite O Texto...</target>
         </segment>
       </unit>
       <unit id="78993713520640" name="KEY_SKIRMISH" xml:space="preserve">
         <segment>
           <source>Skirmish</source>
-          <target>Escarmouche</target>
+          <target>Batalha Rápida</target>
         </segment>
       </unit>
       <unit id="79411105488896" name="KEY_MISSIONS" xml:space="preserve">
         <segment>
           <source>Missions</source>
-          <target>Missions</target>
+          <target>Missões</target>
         </segment>
       </unit>
       <unit id="79537622474752" name="KEY_WARROOM" xml:space="preserve">
         <segment>
           <source>WAR
 Room</source>
-          <target>Centre de Commandement</target>
+          <target>WAR
+Room</target>
         </segment>
       </unit>
       <unit id="79900429770752" name="KEY_CUSTOM" xml:space="preserve">
         <segment>
           <source>Custom</source>
-          <target>Bataille customisée</target>
+          <target>Customizar</target>
         </segment>
       </unit>
     </group>
   </file>
-  <file id="8695172bb397cb94a8c098bf16fa9e7d" original="Assets/Localization/Tables/DataMenuTable_fr.asset">
+  <file id="99f85bf242fdc174fad2a354d16b0632" original="Assets/Localization/Tables/DataMenuTable_pt-BR.asset">
     <group id="373844dbeba2cdd48b45de2cacf83ffc" name="DataMenuTable">
       <unit id="38109175808" name="KEY_MENU" xml:space="preserve">
         <segment>
@@ -182,13 +183,13 @@ Room</source>
       <unit id="1883485495296" name="KEY_SETTINGS" xml:space="preserve">
         <segment>
           <source>Settings</source>
-          <target>Paramètres</target>
+          <target>Configurações</target>
         </segment>
       </unit>
       <unit id="2015752871936" name="KEY_RELOADPARTS" xml:space="preserve">
         <segment>
           <source>Reload Parts</source>
-          <target>Recharger les composants</target>
+          <target>Recarregar Peças</target>
         </segment>
       </unit>
       <unit id="2046941716480" name="KEY_MAINMENU" xml:space="preserve">
@@ -200,12 +201,12 @@ Room</source>
       <unit id="2086150070272" name="KEY_EXITGAME" xml:space="preserve">
         <segment>
           <source>Exit Game</source>
-          <target>Quiter le jeu</target>
+          <target>Fechar</target>
         </segment>
       </unit>
     </group>
   </file>
-  <file id="26c9af657ede364428cc22998082967c" original="Assets/Localization/Tables/OptionsMenuTable_fr.asset">
+  <file id="cbc89f5677a32d24186260a16f5ae91d" original="Assets/Localization/Tables/OptionsMenuTable_pt-BR.asset">
     <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
   </file>
 </xliff>

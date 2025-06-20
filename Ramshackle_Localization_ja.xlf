@@ -1,7 +1,38 @@
 <?xml version="1.0"?>
 <xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="ja" xmlns="urn:oasis:names:tc:xliff:document:2.0">
-  <file id="b8ad561570c4f19439d421f6c6ec3276" original="Assets/Localization/Tables/OptionsMenuTable_ja.asset">
-    <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
+  <file id="7bbcf49cd44aa564e8037581576872a6" original="Assets/Localization/Tables/Main Menu_ja.asset">
+    <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
+      <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
+        <segment>
+          <source>Resume</source>
+          <target>再開</target>
+        </segment>
+      </unit>
+      <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
+        <segment>
+          <source>Singleplayer</source>
+          <target>シングルプレイ</target>
+        </segment>
+      </unit>
+      <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
+        <segment>
+          <source>Multiplayer</source>
+          <target>マルチプレイ</target>
+        </segment>
+      </unit>
+      <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
+        <segment>
+          <source>Options</source>
+          <target>オプション</target>
+        </segment>
+      </unit>
+      <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>終了</target>
+        </segment>
+      </unit>
+    </group>
   </file>
   <file id="8fdd65caf9f592b4ba945e1515b1c9a9" original="Assets/Localization/Tables/BuilderMenuTable_ja.asset">
     <group id="6d3c3004951522547bffee116a0c17c3" name="BuilderMenuTable">
@@ -174,38 +205,7 @@ Room</source>
       </unit>
     </group>
   </file>
-  <file id="7bbcf49cd44aa564e8037581576872a6" original="Assets/Localization/Tables/Main Menu_ja.asset">
-    <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
-      <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
-        <segment>
-          <source>Resume</source>
-          <target>再開</target>
-        </segment>
-      </unit>
-      <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
-        <segment>
-          <source>Singleplayer</source>
-          <target>シングルプレイ</target>
-        </segment>
-      </unit>
-      <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
-        <segment>
-          <source>Multiplayer</source>
-          <target>マルチプレイ</target>
-        </segment>
-      </unit>
-      <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
-        <segment>
-          <source>Options</source>
-          <target>オプション</target>
-        </segment>
-      </unit>
-      <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
-        <segment>
-          <source>Exit</source>
-          <target>終了</target>
-        </segment>
-      </unit>
-    </group>
+  <file id="b8ad561570c4f19439d421f6c6ec3276" original="Assets/Localization/Tables/OptionsMenuTable_ja.asset">
+    <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
   </file>
 </xliff>

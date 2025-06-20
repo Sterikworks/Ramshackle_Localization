@@ -1,7 +1,38 @@
 <?xml version="1.0"?>
 <xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="ru" xmlns="urn:oasis:names:tc:xliff:document:2.0">
-  <file id="a98850696d49f8640b48c758b2465fba" original="Assets/Localization/Tables/OptionsMenuTable_ru.asset">
-    <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
+  <file id="ce32c5e551b952242805e05c81b0e725" original="Assets/Localization/Tables/Main Menu_ru.asset">
+    <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
+      <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
+        <segment>
+          <source>Resume</source>
+          <target>Продолжить</target>
+        </segment>
+      </unit>
+      <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
+        <segment>
+          <source>Singleplayer</source>
+          <target>Одиночная игра</target>
+        </segment>
+      </unit>
+      <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
+        <segment>
+          <source>Multiplayer</source>
+          <target>Мультиплеер</target>
+        </segment>
+      </unit>
+      <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
+        <segment>
+          <source>Options</source>
+          <target>Настройки</target>
+        </segment>
+      </unit>
+      <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>Выход</target>
+        </segment>
+      </unit>
+    </group>
   </file>
   <file id="dbb74690533084840af84fc1428f177d" original="Assets/Localization/Tables/BuilderMenuTable_ru.asset">
     <group id="6d3c3004951522547bffee116a0c17c3" name="BuilderMenuTable">
@@ -174,38 +205,7 @@ Room</source>
       </unit>
     </group>
   </file>
-  <file id="ce32c5e551b952242805e05c81b0e725" original="Assets/Localization/Tables/Main Menu_ru.asset">
-    <group id="6f6ea99a62d72bd4493135722055f676" name="Main Menu">
-      <unit id="268724592640" name="KEY_RESUME" xml:space="preserve">
-        <segment>
-          <source>Resume</source>
-          <target>Продолжить</target>
-        </segment>
-      </unit>
-      <unit id="288186163200" name="KEY_SINGLEPLAYER" xml:space="preserve">
-        <segment>
-          <source>Singleplayer</source>
-          <target>Одиночная игра</target>
-        </segment>
-      </unit>
-      <unit id="310676021248" name="KEY_MULTIPLAYER" xml:space="preserve">
-        <segment>
-          <source>Multiplayer</source>
-          <target>Мультиплеер</target>
-        </segment>
-      </unit>
-      <unit id="331114864640" name="KEY_OPTIONS" xml:space="preserve">
-        <segment>
-          <source>Options</source>
-          <target>Настройки</target>
-        </segment>
-      </unit>
-      <unit id="344482111488" name="KEY_EXIT" xml:space="preserve">
-        <segment>
-          <source>Exit</source>
-          <target>Выход</target>
-        </segment>
-      </unit>
-    </group>
+  <file id="a98850696d49f8640b48c758b2465fba" original="Assets/Localization/Tables/OptionsMenuTable_ru.asset">
+    <group id="2d44205436a72e348b66f3c5bcf837e0" name="OptionsMenuTable" />
   </file>
 </xliff>
