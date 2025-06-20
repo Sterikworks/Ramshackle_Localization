@@ -39,19 +39,19 @@
       <unit id="97420828672" name="KEY_BLUEPRINTS" xml:space="preserve">
         <segment>
           <source>Blueprints</source>
-          <target>Чертежи </target>
+          <target>Чертежи</target>
         </segment>
       </unit>
       <unit id="34249142689792" name="KEY_DESIGNER" xml:space="preserve">
         <segment>
           <source>Designer</source>
-          <target>Дизайнер</target>
+          <target>Редактор</target>
         </segment>
       </unit>
       <unit id="34301173030912" name="KEY_TESTDRIVE" xml:space="preserve">
         <segment>
           <source>Test Drive</source>
-          <target>Тестовый Драйв</target>
+          <target>Пробный Выезд</target>
         </segment>
       </unit>
       <unit id="34399076474880" name="KEY_RESEARCH" xml:space="preserve">
@@ -69,31 +69,31 @@
       <unit id="34449005469696" name="KEY_INVENTORY" xml:space="preserve">
         <segment>
           <source>Inventory</source>
-          <target>Инвентаризация</target>
+          <target>Инвентарь</target>
         </segment>
       </unit>
       <unit id="34477761617920" name="KEY_DEPLOY" xml:space="preserve">
         <segment>
           <source>Deploy</source>
-          <target>развертывание</target>
+          <target>Высадка</target>
         </segment>
       </unit>
       <unit id="34525308248064" name="KEY_SHARE" xml:space="preserve">
         <segment>
           <source>Share</source>
-          <target>TODO</target>
+          <target>Поедлиться</target>
         </segment>
       </unit>
       <unit id="34577007239168" name="KEY_SAVEALL" xml:space="preserve">
         <segment>
           <source>Save All</source>
-          <target>Сохраните все </target>
+          <target>Сохранить всё</target>
         </segment>
       </unit>
       <unit id="34603255193600" name="KEY_EXPORT" xml:space="preserve">
         <segment>
           <source>Export</source>
-          <target>Экспорт </target>
+          <target>Экспорт</target>
         </segment>
       </unit>
       <unit id="48511386902528" name="KEY_CONFIRMDELETEWINDOW" xml:space="preserve">
@@ -117,56 +117,56 @@
       <unit id="49649125416960" name="KEY_DELETE" xml:space="preserve">
         <segment>
           <source>Delete</source>
-          <target>Удалить </target>
+          <target>Удалить</target>
         </segment>
       </unit>
       <unit id="60942033084416" name="KEY_SUBMIT" xml:space="preserve">
         <segment>
           <source>Submit</source>
-          <target>Отправить </target>
+          <target>Отправить</target>
         </segment>
       </unit>
       <unit id="61657937862656" name="KEY_EXPORTVESSELWINDOW" xml:space="preserve">
         <segment>
           <source>Export Vessel...</source>
-          <target>Экспортное судно ... </target>
+          <target>Экспортировать рухлядь ... </target>
         </segment>
       </unit>
       <unit id="67402649559040" name="KEY_EXPORTVESSELWINDOWNAME" xml:space="preserve">
         <segment>
           <source>Name:</source>
-          <target>Имя: </target>
+          <target>Имя:</target>
         </segment>
       </unit>
       <unit id="78515776774144" name="KEY_ENTERTEXT" xml:space="preserve">
         <segment>
           <source>Enter Text...</source>
-          <target>TODO</target>
+          <target>Введите текст...</target>
         </segment>
       </unit>
       <unit id="78993713520640" name="KEY_SKIRMISH" xml:space="preserve">
         <segment>
           <source>Skirmish</source>
-          <target>TODO</target>
+          <target>Сражение</target>
         </segment>
       </unit>
       <unit id="79411105488896" name="KEY_MISSIONS" xml:space="preserve">
         <segment>
           <source>Missions</source>
-          <target>TODO</target>
+          <target>Миссии</target>
         </segment>
       </unit>
       <unit id="79537622474752" name="KEY_WARROOM" xml:space="preserve">
         <segment>
           <source>WAR
 Room</source>
-          <target>TODO</target>
+          <target>Комната битвы</target>
         </segment>
       </unit>
       <unit id="79900429770752" name="KEY_CUSTOM" xml:space="preserve">
         <segment>
           <source>Custom</source>
-          <target>TODO</target>
+          <target>Кастомный</target>
         </segment>
       </unit>
     </group>
@@ -176,31 +176,31 @@ Room</source>
       <unit id="38109175808" name="KEY_MENU" xml:space="preserve">
         <segment>
           <source>Menu</source>
-          <target>TODO</target>
+          <target>Меню</target>
         </segment>
       </unit>
       <unit id="1883485495296" name="KEY_SETTINGS" xml:space="preserve">
         <segment>
           <source>Settings</source>
-          <target>TODO</target>
+          <target>Настройки</target>
         </segment>
       </unit>
       <unit id="2015752871936" name="KEY_RELOADPARTS" xml:space="preserve">
         <segment>
           <source>Reload Parts</source>
-          <target>TODO</target>
+          <target>Перезагрузить детали</target>
         </segment>
       </unit>
       <unit id="2046941716480" name="KEY_MAINMENU" xml:space="preserve">
         <segment>
           <source>Main Menu</source>
-          <target>TODO</target>
+          <target>Главное меню</target>
         </segment>
       </unit>
       <unit id="2086150070272" name="KEY_EXITGAME" xml:space="preserve">
         <segment>
           <source>Exit Game</source>
-          <target>TODO</target>
+          <target>Выйти из Игры</target>
         </segment>
       </unit>
     </group>
