@@ -4,6 +4,7 @@ Ramshackle Community localization files
 contains XML Localisation Interchange File Format (XLIFF) used in swapping text to its relevant language
 
 **search for "TODO" in the .xlf files for untranslated entries**
+PING @INVALID IF YOU WANT TO ADD A NEW LANGUAGE HE HAS TO CHANGE SOME FILES AROUND
 
 pull requests and spellchecking encouraged!
 the files will have entries added over time as more parts of the game are translated
